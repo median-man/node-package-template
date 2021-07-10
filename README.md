@@ -5,7 +5,7 @@
 
 An opinionated configuration for quickly getting your node projects started.
 
-[Report a bug or request a feature](https://github.com/median-man/node-package-template/issues)
+[Report a bug or request a feature][issues-url]
 
 ## About The Project
 
@@ -53,7 +53,7 @@ This boilerplate includes [Jest][jest] testing framework. Files with names endin
 
 ## Report Bugs and Request Features
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues][issues-url] for a list of proposed features (and known issues).
 
 ## Contributing
 
