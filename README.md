@@ -3,7 +3,7 @@
 
 # Node Package Template
 
-An opinionated configuration for quickly getting your node projects started.
+An opinionated boilerplate for getting your node projects started.
 
 [Report a bug or request a feature][issues-url]
 
