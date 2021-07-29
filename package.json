@@ -30,9 +30,15 @@
   },
   "homepage": "https://github.com/median-man/node-package-template#readme",
   "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/eslint-parser": "^7.14.7",
+    "@babel/preset-env": "^7.14.8",
     "eslint": "^7.30.0",
     "eslint-config-prettier": "^8.3.0",
     "jest": "^27.0.6",
     "prettier": "^2.3.2"
+  },
+  "jest": {
+    "transform": {}
   }
 }
