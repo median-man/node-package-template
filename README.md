@@ -83,6 +83,7 @@ Project Link: <https://github.com/median-man/node-package-template>
 - [Img Shields](https://shields.io)
 - [Choose an Open Source License](https://choosealicense.com)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [Setting up ESLint to work with new or proposed JavaScript features by George Griffiths](https://griffa.dev/posts/setting-up-eslint-to-work-with-new-or-proposed-javascript-features-such-as-private-class-fields./)
 
 [contributors-url]: https://github.com/median-man/node-package-template/graphs/contributors
 [eslint]: https://eslint.org/
